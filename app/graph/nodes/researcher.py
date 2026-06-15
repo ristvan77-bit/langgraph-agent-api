@@ -1,0 +1,1 @@
+# researcher.py - Kezdeti fájl

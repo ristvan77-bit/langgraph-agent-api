@@ -1,0 +1,1 @@
+# config.py - Kezdeti fájl

@@ -1,0 +1,1 @@
+# writer.py - Kezdeti fájl
